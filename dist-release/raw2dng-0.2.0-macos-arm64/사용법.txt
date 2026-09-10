@@ -1,0 +1,1 @@
+raw2dng-gui.command 더블클릭 → 파일 선택 → DNG 생성

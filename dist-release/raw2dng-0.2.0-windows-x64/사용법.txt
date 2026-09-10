@@ -1,0 +1,1 @@
+raw2dng-gui.cmd 더블클릭. Python 설치 불필요.

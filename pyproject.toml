@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "raw2dng"
-version = "0.1.1"
+version = "0.2.0"
 description = "Convert camera RAW files to Adobe DNG (thin CLI over dnglab)"
 readme = "README.md"
 license = { text = "MIT" }
@@ -21,7 +21,8 @@ classifiers = [
 dependencies = []
 
 [project.scripts]
-raw2dng = "raw2dng.cli:main"
+raw2dng = "raw2dng.gui:main"
+raw2dng-cli = "raw2dng.cli:main"
 
 [project.urls]
 Homepage = "https://github.com/dahli4/raw2dng"

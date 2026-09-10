@@ -15,11 +15,11 @@ set "FORCE="
 set "RECURSIVE="
 :parse
 if /I "%~1"=="-V" (
-  echo raw2dng 0.1.1 (portable)
+  echo raw2dng 0.2.0 (portable)
   exit /b 0
 )
 if /I "%~1"=="--version" (
-  echo raw2dng 0.1.1 (portable)
+  echo raw2dng 0.2.0 (portable)
   exit /b 0
 )
 if /I "%~1"=="-h" (

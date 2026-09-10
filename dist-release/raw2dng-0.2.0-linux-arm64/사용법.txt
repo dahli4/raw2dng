@@ -1,1 +1,0 @@
-이 패키지는 CLI(raw2dng-cli)입니다. GUI 바이너리는 linux-x64 패키지를 받으세요.

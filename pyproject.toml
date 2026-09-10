@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "raw2dng"
-version = "0.1.0"
+version = "0.1.1"
 description = "Convert camera RAW files to Adobe DNG (thin CLI over dnglab)"
 readme = "README.md"
 license = { text = "MIT" }
